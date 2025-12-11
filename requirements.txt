@@ -1,0 +1,16 @@
+azure-functions
+# azure-functions-fastapi
+fastapi
+uvicorn
+python-dotenv
+pandas
+lancedb
+torch
+transformers
+sentence-transformers
+google-generativeai
+pypdf
+pydantic-ai
+ipykernel
+
+
