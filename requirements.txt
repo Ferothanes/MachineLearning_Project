@@ -1,5 +1,4 @@
 azure-functions
-# azure-functions-fastapi
 fastapi
 uvicorn
 python-dotenv
